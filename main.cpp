@@ -9,5 +9,7 @@ int main()
 
     print_tree_reverse_post_order(head);
 
+    print_interval(head);
+
     return 0;
 }
